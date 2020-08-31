@@ -1,0 +1,55 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#cafe{
+    background-color: rgb(80, 48, 6);
+}
+
+
+
+#letraBF{
+    color: white;
+    vertical-align: middle;
+}
+
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.altura{
+    height: 100px;
+}
+
+.main{
+    height: 200px;
+}
+
+.left{
+    background-color: rgb(218, 128, 11);
+}
+
+.top{
+    background-color: rgb(160, 133, 97);
+}
+
+h4{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    
+}
+
+h1, h2, h3{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px){
+    .left {
+      display: none;
+    }
+}
+
