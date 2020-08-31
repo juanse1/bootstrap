@@ -6,7 +6,11 @@ p{
     background-color: rgb(80, 48, 6);
 }
 
-
+.al{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 #letraBF{
     color: white;
